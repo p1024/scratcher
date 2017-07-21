@@ -1,0 +1,27 @@
+{
+  "name": "scratcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1024/scratcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p1024/scratcher/issues"
+  },
+  "homepage": "https://github.com/p1024/scratcher#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "content-disposition": "^0.5.2",
+    "handyfs": "git+https://github.com/p1024/handyfs.git",
+    "linked-list": "git+https://github.com/p1024/linked-list.git",
+    "request": "^2.81.0"
+  }
+}
